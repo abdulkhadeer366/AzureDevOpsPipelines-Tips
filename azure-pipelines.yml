@@ -8,7 +8,7 @@ variables:
   subscription: Visual Studio Enterprise(610d8937-ef68-4887-b3f8-986ebe4fdf07)
   resourceGroup: Khadeer-varian-RG
   storageAccount: storagevariandest
-  container: targetcontainer
+  container: newcontainer
   tfstateFile: terraform.tfstate
   anyTfChanges: false
 
